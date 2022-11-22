@@ -1,7 +1,7 @@
 .vs/
+*node_modules
 
 Packages/
-
 **/bin/*
 **/obj/*
 

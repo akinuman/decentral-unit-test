@@ -1,13 +1,13 @@
 {
-  "name": "autom8able-mochajs-starter",
+  "name": "data-driven-test",
   "version": "1.0.0",
-  "description": "A MochaJS starter package from https://autom8able.com",
+  "description": "A MochaJS starter package",
   "main": "src/index.js",
   "scripts": {
     "test": "mocha"
   },
   "keywords": [],
-  "author": "Mitch Allen (mitchallen.com)",
+  "author": "Akin",
   "license": "MIT",
   "devDependencies": {
     "mocha": "^7.1.0"

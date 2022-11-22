@@ -1,7 +1,4 @@
-autom8able-mochajs-starter
-==
-A MochaJS starter package from https://autom8able.com
---
+A MochaJS Data Driven Test
 
 ## Installation
 
@@ -15,27 +12,27 @@ npm install
 npm test
 ```
 
-* * *
+---
 
 ## Documentation
 
 For more information, visit https://autom8able.com.
 
-* * *
+---
 
 ## Testing
 
-To test, go to the root folder and type (sans __$__):
+To test, go to the root folder and type (sans **$**):
 
     $ npm test
-   
-* * *
- 
+
+---
+
 ## Repo(s)
 
-* [github.com/mitchallen/autom8able-mochajs-starter.git](https://github.com/mitchallen/autom8able-mochajs-starter.git)
+- [github.com/mitchallen/autom8able-mochajs-starter.git](https://github.com/mitchallen/autom8able-mochajs-starter.git)
 
-* * *
+---
 
 ## Contributing
 
