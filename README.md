@@ -1,40 +1,18 @@
-A MochaJS Data Driven Test
+With MochaJS Data Driven Test
 
 ## Installation
 
 ```
-git clone https://github.com/mitchallen/autom8able-mochajs-starter.git
+git clone https://github.com/akinuman/decentral-unit-test.git
 
-cd autom8able-mochajs-starter/
+cd decentral-unit-test
 
 npm install
 
 npm test
 ```
 
----
+## Expected result
 
-## Documentation
-
-For more information, visit https://autom8able.com.
-
----
-
-## Testing
-
-To test, go to the root folder and type (sans **$**):
-
-    $ npm test
-
----
-
-## Repo(s)
-
-- [github.com/mitchallen/autom8able-mochajs-starter.git](https://github.com/mitchallen/autom8able-mochajs-starter.git)
-
----
-
-## Contributing
-
-In lieu of a formal style guide, take care to maintain the existing coding style.
-Add unit tests for any new or changed functionality. Lint and test your code.
+3 test should be failing
+1 test should be passing
