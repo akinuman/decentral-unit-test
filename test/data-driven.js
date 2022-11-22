@@ -6,7 +6,7 @@ describe("data driven test", () => {
   context("check input scheme", () => {
     [
       {
-        values: "This is a string, not an object. This won't work!!",
+        values: "This is a string, not an object. This won't work!",
         expected: {
           name: "sheet2",
           freeze: "A1",
