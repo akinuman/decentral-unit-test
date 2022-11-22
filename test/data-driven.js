@@ -1,10 +1,6 @@
 "use strict";
 
-// require assert
-
 var assert = require("assert");
-
-// require the HelloWorld factory module
 
 describe("data driven test", () => {
   context("check input scheme", () => {
